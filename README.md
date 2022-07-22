@@ -1,0 +1,2 @@
+# Estimando o NPV com Monte Carlo
+Esse projeto mostra como estimar o Net Present Value (NPV) usando Monte Carlo em Python. Isso é muito útil para estimar o impacto financeiro de projetos de Data Science
